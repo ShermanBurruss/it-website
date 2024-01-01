@@ -1,0 +1,87 @@
+/* App-wide styles */
+body {
+    font-family: 'Oleo Script', script;
+  }
+  
+  /* Navbar styles */
+  .navbar {
+    background-color: #567fa9;
+  }
+  
+  .nav-link {
+    color: white !important;
+  }
+  
+  .nav-logo {
+    max-width: 110px;
+    max-height: 110px;
+  }
+  
+  /* Title Section styles */
+  #title {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .main-title {
+    font-family: 'Kaushan Script', script;
+    font-size:4rem;
+  }
+  
+  .download-button {
+    margin-top: 20px;
+  }
+  
+  /* Features Section styles */
+  #features {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .feature-box {
+    margin: 20px 0;
+  }
+  
+  .feature-title {
+    font-family: 'Merriweather', serif;
+    margin: 10px 0;
+  }
+  
+  /* Call to Action Section styles */
+  #cta {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .cta-text {
+    color: #567fa9;
+    font-weight: bold;
+  }
+  
+  /* Footer styles */
+  #footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #567fa9;
+    color: white;
+  }
+  
+  .social-brand {
+    font-size: 30px;
+    margin: 0 10px;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 768px) {
+    .main-title {
+      font-size: 2rem;
+    }
+    
+    .title-image {
+      display: none;
+    }
+  }
+  
+  /* Custom styles */
+  /* Add any custom styles here */
+  

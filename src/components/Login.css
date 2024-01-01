@@ -1,0 +1,15 @@
+/* src/Login.css */
+.login-container {
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+    max-width: 400px;
+  }
+
+  .add-user-container{
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+    max-width: 400px;
+  }
+  
